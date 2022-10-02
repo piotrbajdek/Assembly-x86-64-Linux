@@ -1,6 +1,3 @@
-; BSD 3-Clause License
-; Copyright (c) 2022, Piotr Bajdek
-
 ; nasm -f elf64 rustfmt-template.asm
 ; ld -o rustfmt-template rustfmt-template.o
 
