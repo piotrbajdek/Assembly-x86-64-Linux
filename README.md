@@ -6,7 +6,7 @@ Content of this repository can be used and/or redistributed under terms of the [
 
 # Contents
 
-rustfmt-template.asm - creates a rustfmt.toml template file for Rust
+[rustfmt-template.asm](https://github.com/piotrbajdek/Assembly-x86-64-Linux/blob/main/rustfmt-template.asm) - creates a rustfmt.toml template file for Rust
 
 # See also
 
